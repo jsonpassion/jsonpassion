@@ -62,26 +62,4 @@
 
 </div>
 
----
-
-<div align="center">
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsonpassion/jsonpassion/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsonpassion/jsonpassion/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jsonpassion/jsonpassion/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jsonpassion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
