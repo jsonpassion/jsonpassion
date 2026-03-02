@@ -1,16 +1,87 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Jason%20J.%20Lee&fontSize=50&fontColor=ffffff&fontAlignY=33&animation=twinkling&desc=Researcher%20%7C%20Developer%20%7C%20Educator&descSize=18&descAlignY=55)
 
-<!--
-**jsonpassion/jsonpassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ph.D+Candidate+in+Design+Planning;Deep+Learning+%26+BigData+Analytics;Technology+Mentor+%40POSTECH;Statistics+%7C+Pedagogy+%7C+Software+Dev&font=Fira+Code&center=true&width=500&height=45&color=667eea&vCenter=true&pause=1000&size=18)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=jsonpassion&color=667eea&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/json-lee)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2490-2095)
+
+</div>
+
+---
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### About Me
+
+- Researcher @ **Developer Academy | POSTECH**
+- M.S in Software Development
+- Ph.D Candidate in Design Planning
+- Deep Learning | BigData Analytics | Statistics
+- Pedagogy & Tech Education
+
+    </td>
+    <td valign="top" width="50%">
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,swift,tensorflow,pytorch&theme=dark&perline=4" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark&perline=4" />
+  </a>
+</p>
+
+   </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsonpassion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonpassion&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=jsonpassion&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+---
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsonpassion&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsonpassion/jsonpassion/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsonpassion/jsonpassion/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jsonpassion/jsonpassion/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsonpassion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
