@@ -14,18 +14,16 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
 
 ### About Me
 
-- Researcher @ **Developer Academy | POSTECH**
+- Researcher @ **Developer Academy, POSTECH**
 - M.S in Software Development
 - Ph.D Candidate in Design Planning
 - Deep Learning | BigData Analytics | Statistics
 - Pedagogy & Tech Education
 
-    </td>
-    <td valign="top" width="50%">
+
 
 ### Tech Stack
 
@@ -39,16 +37,10 @@
   </a>
 </p>
 
-   </td>
   </tr>
 </table>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsonpassion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonpassion&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jsonpassion&theme=tokyonight&hide_border=true&background=00000000" />
