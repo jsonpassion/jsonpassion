@@ -17,8 +17,8 @@
 
 ### About Me
 
-- Researcher @ **Developer Academy, POSTECH**
-- M.S in Software Development
+- Researcher @ [**Developer Academy, POSTECH**](https://developeracademy.postech.ac.kr/)
+- M.S in Software Development [Boston University](https://www.bu.edu/)
 - Ph.D Candidate in Design Planning
 - Deep Learning | BigData Analytics | Statistics
 - Pedagogy & Tech Education
